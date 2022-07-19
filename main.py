@@ -23,7 +23,7 @@ def handle_docs_audio_photo(message):
 
 @bot.message_handler()
 def echo_all(message):
-	bot.reply_to(message,"SOSI MOY HUI")
+	bot.reply_to(message,"BEZ MATA")
 
 
 bot.infinity_polling()
